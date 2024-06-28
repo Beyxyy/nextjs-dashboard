@@ -2,8 +2,6 @@
 
 export default function Custom(){
 
-    return <>
-        <p>Custom Page</p>
-    </>
+    return (<p>Custom Page</p>)
 
 }
